@@ -1,5 +1,5 @@
 {
-  "name": "brunch-on-speed",
+  "name": "brunch-on-crack",
   "description": "Skeleton for Brunch",
   "private": true,
   "author": "zee-german",
@@ -27,7 +27,7 @@
     "jquery": "^3.2.1",
     "pleeease-brunch": "^3",
     "prettier": "^1",
-    "sass-brunch": "git+https://git@github.com/jukebox017/sass-brunch.git",
+    "sass-brunch": "git+https://git@github.com/zee-german/sass-brunch.git",
     "uglify-js-brunch": "^2"
   },
   "dependencies": {
