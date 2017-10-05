@@ -4,7 +4,7 @@ This is a skeleton (or boilerplate) for [Brunch](http://brunch.io), a fast and e
 
 ## Installation
 
-Clone this repo manually or use `brunch new DIRECTORY -s zee-german/crispy-octo-spork`
+Clone this repo manually or use `brunch new DIRECTORY -s zee-german/brunch-on-crack`
 
 ## Features
 * [Twitter Bootstrap v4](https://getbootstrap.com/docs/3.3/p.com)
